@@ -1,0 +1,7 @@
+1. cursor
+2. hybrid graphics benchmark
+3. pywal for colors
+4. ags
+5. nvim
+6. defaults for apps
+ 7. nm-applet
